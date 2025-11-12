@@ -1,6 +1,6 @@
 # livesurf-sdk-nodejs
 
-- PHP SDK для LiveSurf API (https://api.livesurf.ru/).
+- NodeJS SDK для LiveSurf API (https://api.livesurf.ru/).
 - Документация API (https://livesurf.ru/api_documentation.html)
 - Получить API-ключ (https://livesurf.ru/api)
 
