@@ -1,0 +1,30 @@
+{
+  "name": "@decpro/livesurf-sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK для API LiveSurf.ru",
+  "type": "module",
+  "main": "LiveSurfApi.js",
+  "exports": {
+    ".": "./LiveSurfApi.js"
+  },
+  "keywords": [
+    "livesurf",
+    "api",
+    "sdk",
+    "nodejs",
+    "client"
+  ],
+  "author": "DecPro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevAnlim/livesurf-sdk-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevAnlim/livesurf-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/DevAnlim/livesurf-sdk-nodejs#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
