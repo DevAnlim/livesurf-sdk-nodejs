@@ -1,4 +1,4 @@
-# livesurf-sdk-nodejs
+# LiveSurf SDK (NodeJS)
 
 - NodeJS SDK для LiveSurf API (https://api.livesurf.ru/).
 - Документация API (https://livesurf.ru/api_documentation.html)
